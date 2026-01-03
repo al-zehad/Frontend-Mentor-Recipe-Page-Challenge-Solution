@@ -12,8 +12,8 @@ This project focuses on creating a simple, elegant recipe page that adapts smoot
 
 ### Links
 
-- **Solution URL:** ![Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-recipe-page-using-tailwind-css-t07JpMUGCP)
-- **Live Site URL:** ![Live](https://recipe-page-fm-challenge-az.netlify.app/)
+- **Solution URL:** [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-recipe-page-using-tailwind-css-t07JpMUGCP)
+- **Live Site URL:** [Live](https://recipe-page-fm-challenge-az.netlify.app/)
 
 ## My Process
 
